@@ -1,0 +1,10 @@
+What is the first chapter named ? [MCQ]
+Separable   FirstOrder   Second Order   THird Order   Separable
+What is the second chapter ? [FILL]
+First Order
+Is the third chapter named second order ? [T/F]
+True
+Fourth Chapter is named Third Order. [T/F]
+F
+Who teaches Maths ? [MCQ]
+KVR   KK   PKS   DKS   KVR

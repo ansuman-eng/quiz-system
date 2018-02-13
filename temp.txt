@@ -1,0 +1,10 @@
+Project has been polished and modified.  [T/F]
+T
+How long did it take ? [MCQ]
+2-3 days   3-4 days   about a week   more than a week   D
+Program was debugged.  [T/F]
+T
+Who is the teachers ? [FILL]
+Gururaj Sir   Bhanumurhty Sir   Tathagat Sir   Hota Sir   A
+When is the eval ? [FILL]
+26

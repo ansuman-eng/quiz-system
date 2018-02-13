@@ -1,0 +1,10 @@
+Which has more outputs than inputs ? [MCQ]
+AND   OR   XOR   Decoder   Decoder
+An  8:1 can be.......... [FILL]
+MUX
+A discrete counter can be asynchronous. [T/F]
+F
+Which of the following can't be created by other gates ? [MCQ]
+And   Or   Xor   Not   Xor
+Who teaches DD? [FILL]
+Pravakar Rao

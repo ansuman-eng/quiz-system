@@ -1,0 +1,10 @@
+Most widespread syntax ? [MCQ]
+LTL   CTL   CTL*   none   CTL*
+Height of a parse tree as a function of length ? [FILL]
+length+1
+Every parse tree is Binary ? [T/F]
+F
+Which software for modelling ? [FILL]
+NuSMV
+Which is your favorite chapter ? [MCQ]
+Proposition   Predicate   LTL/CTL   CTL*   LTL/CTL

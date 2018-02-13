@@ -1,0 +1,10 @@
+For which values of n is Kn Eulerian ? [FILL]
+n>2 and n is odd.
+Graph has 20 veritces. If for any two u, v, deg(u) +deg(v) >=19, graph is connected. [T/F]
+F
+Every tree is a bipartite graph [MCQ]
+Yes   No   Maybe   None of the above   Yes
+Chromatic Number of Wn is ? [FILL]
+n=3 or 4
+Number of spanning trees in K2,r [FILL]
+r^2(r-1)
